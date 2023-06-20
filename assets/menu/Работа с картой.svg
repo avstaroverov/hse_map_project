@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_11" data-name="Прямоугольник 11" width="54.221" height="48.274" transform="translate(0 0)" fill="none" stroke="#223263" stroke-width="4"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Прямоугольник_13" data-name="Прямоугольник 13" width="38.175" height="31.587" fill="none" stroke="#223263" stroke-width="2"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Прямоугольник_14" data-name="Прямоугольник 14" width="38.615" height="38.615" fill="none" stroke="#223263" stroke-width="2"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="Прямоугольник_15" data-name="Прямоугольник 15" width="41.179" height="41.178" fill="none" stroke="#223263" stroke-width="2"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="Прямоугольник_18" data-name="Прямоугольник 18" width="38.175" height="41.865" fill="none" stroke="#223263" stroke-width="2"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <rect id="Прямоугольник_19" data-name="Прямоугольник 19" width="38.615" height="44.998" fill="none" stroke="#223263" stroke-width="2"/>
+    </clipPath>
+    <clipPath id="clip-Работа_с_картой">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Работа_с_картой" data-name="Работа с картой" clip-path="url(#clip-Работа_с_картой)">
+    <rect width="1920" height="1080" fill="#f0f8ff"/>
+    <path id="Контур_925" data-name="Контур 925" d="M4.68,24.6V75H16.7V59.376h6.984A17.344,17.344,0,0,0,41.112,41.952,17.065,17.065,0,0,0,23.688,24.6ZM16.7,35.544H22.32a6.418,6.418,0,1,1,0,12.816H16.7ZM57.6,50.088c2.88,0,4.392,1.44,4.392,4.9V55.2c-13.032.072-19.08,2.232-19.08,10.584,0,6.336,3.888,10.224,9.792,10.224a11.944,11.944,0,0,0,9.288-4.536V75H72.144V54.912c0-8.5-4.032-13.392-12.744-13.392a24.4,24.4,0,0,0-14.472,4.248l3.024,7.272A17.556,17.556,0,0,1,57.6,50.088ZM52.92,65.136c0-2.952,1.944-3.888,9.072-3.888V64.7c-1.944,2.448-3.816,3.384-5.76,3.384C54.216,68.088,52.92,67.152,52.92,65.136Zm58.824-6.264c0-8.424-5.472-14.9-16.2-14.9-3.744,0-8.28,1.584-10.656,4.608.72-6.552,3.6-10.008,11.736-11.664,3.384-.792,9.5-1.872,13.608-2.952l-1.944-8.136c-4.9,1.368-9.5,2.376-14.616,3.384C80.784,31.944,77.688,39.576,77.688,55.7c0,12.312,5.688,20.3,17.424,20.3C105.336,76.008,111.744,69.024,111.744,58.872Zm-9.72.72c0,4.392-2.808,7.7-7.056,7.7a7.669,7.669,0,0,1,0-15.336C99.216,51.96,102.024,55.344,102.024,59.592Zm31.392,16.416a17.245,17.245,0,1,0-17.064-17.28A17.132,17.132,0,0,0,133.416,76.008Zm6.84-17.28c0,4.1-2.808,7.488-6.84,7.488s-6.912-3.384-6.912-7.488,2.88-7.56,6.912-7.56S140.256,54.624,140.256,58.728ZM173.448,75V51.96h10.44v-9.5H152.856v9.5h10.3V75ZM201.1,50.088c2.88,0,4.392,1.44,4.392,4.9V55.2c-13.032.072-19.08,2.232-19.08,10.584,0,6.336,3.888,10.224,9.792,10.224a11.944,11.944,0,0,0,9.288-4.536V75H215.64V54.912c0-8.5-4.032-13.392-12.744-13.392a24.4,24.4,0,0,0-14.472,4.248l3.024,7.272A17.556,17.556,0,0,1,201.1,50.088Zm-4.68,15.048c0-2.952,1.944-3.888,9.072-3.888V64.7c-1.944,2.448-3.816,3.384-5.76,3.384C197.712,68.088,196.416,67.152,196.416,65.136Zm73.872-15.768A17.036,17.036,0,1,0,256.1,76.008a17.24,17.24,0,0,0,14.184-7.992L262.3,62.472c-1.512,2.232-3.744,3.888-6.192,3.888a7.611,7.611,0,0,1,0-15.192,7.628,7.628,0,0,1,6.192,3.744ZM326.16,75V65.712a6.068,6.068,0,0,1-2.16.432c-4.608,0-6.912-7.2-9.792-8.352l11.376-15.336H313.92L305.5,53.328h-2.088V42.456h-10.3V75h10.3V62.9h2.448c3.456,1.944,5.976,12.96,15.336,12.96A14.735,14.735,0,0,0,326.16,75Zm18.216-24.912c2.88,0,4.392,1.44,4.392,4.9V55.2c-13.032.072-19.08,2.232-19.08,10.584,0,6.336,3.888,10.224,9.792,10.224a11.944,11.944,0,0,0,9.288-4.536V75H358.92V54.912c0-8.5-4.032-13.392-12.744-13.392A24.4,24.4,0,0,0,331.7,45.768l3.024,7.272A17.556,17.556,0,0,1,344.376,50.088ZM339.7,65.136c0-2.952,1.944-3.888,9.072-3.888V64.7c-1.944,2.448-3.816,3.384-5.76,3.384C340.992,68.088,339.7,67.152,339.7,65.136Zm45-23.616a12.4,12.4,0,0,0-9.432,4.32V42.456h-9.648V91.848H375.84v-19.8a11.3,11.3,0,0,0,8.856,3.96c9.288,0,14.688-7.7,14.688-17.28C399.384,49.08,393.984,41.52,384.7,41.52Zm-2.3,9.72c4.1,0,6.768,2.952,6.768,7.488,0,4.464-2.664,7.488-6.768,7.488a8.05,8.05,0,0,1-6.552-3.6V54.624A8.041,8.041,0,0,1,382.392,51.24ZM422.712,75V51.96h10.44v-9.5H402.12v9.5h10.3V75Zm30.024,1.008a17.245,17.245,0,1,0-17.064-17.28A17.132,17.132,0,0,0,452.736,76.008Zm6.84-17.28c0,4.1-2.808,7.488-6.84,7.488s-6.912-3.384-6.912-7.488,2.88-7.56,6.912-7.56S459.576,54.624,459.576,58.728ZM477.288,27.12c1.656,6.984,7.416,9.432,13.752,9.432,6.192,0,11.952-2.016,13.608-9.432l-6.84-2.376C496.3,28.488,494.5,29.5,491.04,29.5c-3.528,0-5.328-1.008-6.912-4.752Zm-2.016,15.336V75h8.712l12.6-16.272V75h10.224V42.456h-8.64l-12.6,16.2v-16.2Z" transform="translate(147 59)" fill="#223263"/>
+    <g id="Сгруппировать_8" data-name="Сгруппировать 8" transform="translate(75.846 85.363)">
+      <g id="Сгруппировать_7" data-name="Сгруппировать 7" transform="translate(-8 1)" clip-path="url(#clip-path)">
+        <line id="Линия_97" data-name="Линия 97" y1="22.524" x2="23.425" transform="translate(1.613 1.613)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <line id="Линия_98" data-name="Линия 98" x2="23.425" y2="22.524" transform="translate(1.613 24.137)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <line id="Линия_99" data-name="Линия 99" x2="50.995" transform="translate(1.613 24.137)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+    </g>
+    <path id="Контур_919" data-name="Контур 919" d="M1593.956,120.549" transform="translate(-1510)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Прямоугольник_12" data-name="Прямоугольник 12" transform="translate(95 208)" fill="none" stroke="#223263" stroke-width="4">
+      <rect width="1658" height="800" rx="40" stroke="none"/>
+      <rect x="2" y="2" width="1654" height="796" rx="38" fill="none"/>
+    </g>
+    <g id="Search_Field_Grey" data-name="Search Field / Grey" transform="translate(1410 101)">
+      <rect id="Search_Field" data-name="Search Field" width="343" height="36" rx="10" opacity="0.06"/>
+      <text id="Placeholder_Label" data-name="Placeholder Label" transform="translate(39 24)" fill="#223263" font-size="17" font-family="NimbusSan-Lig, Nimbus Sans" opacity="0.3"><tspan x="0" y="0">Search</tspan></text>
+      <g id="Icon_Search" data-name="Icon / Search" transform="translate(-16 -2673)" opacity="0.3">
+        <g id="Эллипс_345" data-name="Эллипс 345" transform="translate(33 2684)" fill="none" stroke="#3c3c3c" stroke-width="1">
+          <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+          <circle cx="6.5" cy="6.5" r="6" fill="none"/>
+        </g>
+        <line id="Линия_88" data-name="Линия 88" x2="3" y2="3" transform="translate(44 2695)" fill="none" stroke="#3c3c3c" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_10" data-name="Сгруппировать 10" transform="translate(1776 328.079)">
+      <g id="Сгруппировать_9" data-name="Сгруппировать 9" clip-path="url(#clip-path-2)">
+        <path id="Контур_926" data-name="Контур 926" d="M12.151,17.834,3.5,10.667,12.151,3.5" transform="translate(-2.853 -2.852)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Контур_927" data-name="Контур 927" d="M3.5,42.244H28.817a11.563,11.563,0,1,1,0,23.125H7.928" transform="translate(-2.853 -34.429)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_12" data-name="Сгруппировать 12" transform="translate(1776 372.079)">
+      <g id="Сгруппировать_9-2" data-name="Сгруппировать 9" clip-path="url(#clip-path-2)">
+        <path id="Контур_926-2" data-name="Контур 926" d="M3.5,17.834l8.651-7.167L3.5,3.5" transform="translate(25.376 -2.852)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Контур_927-2" data-name="Контур 927" d="M40.38,42.244H15.063a11.563,11.563,0,1,0,0,23.125h20.89" transform="translate(-2.853 -34.429)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_11" data-name="Сгруппировать 11" transform="translate(1776 328.079)">
+      <g id="Сгруппировать_9-3" data-name="Сгруппировать 9" clip-path="url(#clip-path-2)">
+        <path id="Контур_926-3" data-name="Контур 926" d="M12.151,17.834,3.5,10.667,12.151,3.5" transform="translate(-2.853 -2.852)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Контур_927-3" data-name="Контур 927" d="M3.5,42.244H28.817a11.563,11.563,0,1,1,0,23.125H7.928" transform="translate(-2.853 -34.429)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_13" data-name="Сгруппировать 13" transform="translate(1776 372.079)">
+      <g id="Сгруппировать_9-4" data-name="Сгруппировать 9" clip-path="url(#clip-path-2)">
+        <path id="Контур_926-4" data-name="Контур 926" d="M3.5,17.834l8.651-7.167L3.5,3.5" transform="translate(25.376 -2.852)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Контур_927-4" data-name="Контур 927" d="M40.38,42.244H15.063a11.563,11.563,0,1,0,0,23.125h20.89" transform="translate(-2.853 -34.429)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_15" data-name="Сгруппировать 15" transform="translate(1776 464.079)">
+      <g id="Сгруппировать_14" data-name="Сгруппировать 14" clip-path="url(#clip-path-6)">
+        <path id="Контур_928" data-name="Контур 928" d="M3.5,3.5,40.758,17.463,22.9,22.9,17.463,40.758Z" transform="translate(-2.822 -2.822)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_17" data-name="Сгруппировать 17" transform="translate(1772.996 226.488)">
+      <g id="Сгруппировать_16" data-name="Сгруппировать 16" clip-path="url(#clip-path-7)">
+        <path id="Контур_929" data-name="Контур 929" d="M39.252,36.991V58.713H3.5V22.963H24.057" transform="translate(-2.782 -18.253)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Линия_100" data-name="Линия 100" y1="14.91" transform="translate(40.461 0.718)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Линия_101" data-name="Линия 101" x1="15.515" transform="translate(24.946 0.718)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Линия_102" data-name="Линия 102" y1="22.46" x2="22.46" transform="translate(18.001 0.718)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_19" data-name="Сгруппировать 19" transform="translate(1776 515.107)">
+      <g id="Сгруппировать_18" data-name="Сгруппировать 18" clip-path="url(#clip-path-6)">
+        <path id="Контур_930" data-name="Контур 930" d="M12.125,37.291,3.5,40.762l3.471-8.625a3.084,3.084,0,0,1,.68-1.029l27-27a2.075,2.075,0,0,1,2.935,0l2.568,2.568a2.076,2.076,0,0,1,0,2.935l-27,27A3.084,3.084,0,0,1,12.125,37.291Z" transform="translate(-2.823 -2.824)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Линия_103" data-name="Линия 103" x2="5.504" y2="5.504" transform="translate(26.617 6.495)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Линия_104" data-name="Линия 104" x2="5.478" y2="5.478" transform="translate(4.597 28.544)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_21" data-name="Сгруппировать 21" transform="translate(1776 566.135)">
+      <g id="Сгруппировать_20" data-name="Сгруппировать 20" clip-path="url(#clip-path-9)">
+        <path id="Прямоугольник_17" data-name="Прямоугольник 17" d="M9.348,0H20.7a9.349,9.349,0,0,1,9.349,9.349V23.21A9.348,9.348,0,0,1,20.7,32.558H9.348A9.348,9.348,0,0,1,0,23.21V9.348A9.348,9.348,0,0,1,9.348,0Z" transform="translate(7.449 8.57)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Контур_931" data-name="Контур 931" d="M10.269,36.058H5.46A2.046,2.046,0,0,1,3.5,33.935V5.623A2.046,2.046,0,0,1,5.46,3.5H31.587a2.046,2.046,0,0,1,1.96,2.123v5.711" transform="translate(-2.821 -2.764)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Линия_105" data-name="Линия 105" y2="14.799" transform="translate(22.472 17.45)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Линия_106" data-name="Линия 106" x1="13.658" transform="translate(15.643 24.85)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_23" data-name="Сгруппировать 23" transform="translate(1776 620.413)">
+      <g id="Сгруппировать_22" data-name="Сгруппировать 22" clip-path="url(#clip-path-10)">
+        <path id="Контур_932" data-name="Контур 932" d="M34.3,26.316V14.9a2.831,2.831,0,0,0-.8-1.974L25.115,4.317A2.691,2.691,0,0,0,23.192,3.5H6.221A2.757,2.757,0,0,0,3.5,6.291V40.44a2.758,2.758,0,0,0,2.721,2.793h16.02" transform="translate(-2.785 -2.766)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Контур_933" data-name="Контур 933" d="M104.482,4.357v7.45A2.757,2.757,0,0,0,107.2,14.6h7.258" transform="translate(-83.124 -3.443)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Контур_934" data-name="Контур 934" d="M138.722,170.13l-4.073,4.18-.525.539" transform="translate(-106.706 -134.429)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Контур_935" data-name="Контур 935" d="M116.227,174.848l-.525-.539-4.074-4.18" transform="translate(-88.81 -134.429)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Линия_107" data-name="Линия 107" y2="13.836" transform="translate(27.417 26.585)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <ellipse id="Эллипс_376" data-name="Эллипс 376" cx="10.483" cy="10.761" rx="10.483" ry="10.761" transform="translate(16.934 22.742)" fill="none" stroke="#223263" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

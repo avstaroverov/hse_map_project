@@ -1,0 +1,19 @@
+{
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.diagnostics.globals": [
+        "love",
+    ],
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "Lua.workspace.checkThirdParty": false,
+    "Lua.diagnostics.disable": [
+        "lowercase-global",
+        "undefined-global",
+        "empty-block",
+        "missing-parameter",
+        "duplicate-set-field",
+        "cast-local-type",
+        "trailing-space"
+    ],
+}
